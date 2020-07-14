@@ -1,0 +1,71 @@
+body {
+    background-image: url(C:\Users/RBK/Desktop/myproject/pic1.jpg);
+}
+ 
+.grid {
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+   
+    padding: 10px 50px 50px 50px;
+    
+    
+}
+ 
+.grid h1 {
+    font-family:"monospace" ;
+    font-size: 60px;
+    text-align: center;
+    color: #A9A9A9;
+    padding: 2px 0px;
+    
+}
+ 
+#score {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+ 
+.grid #question {
+    font-family:"sans-serif" ;
+    font-size: 30px;
+    color: #A9A9A9;
+}
+ 
+.buttons {
+    margin-top: 30px;
+}
+ 
+#btn0, #btn1, #btn2, #btn3 {
+    background-color: #A9A9A9;
+    width: 250px;
+    font-size: 20px;
+    color: #fff;
+    border: 1px solid #1D3C6A;
+    margin: 10px 40px 10px 0px;
+    padding: 10px 10px;
+}
+ 
+#btn0:hover, #btn1:hover, #btn2:hover, #btn3:hover {
+    cursor: pointer;
+    background-color: #01BBFF;
+}
+ 
+#btn0:focus, #btn1:focus, #btn2:focus, #btn3:focus {
+    outline: 0;
+}
+ 
+#progress {
+    color: white;
+        font-size: 18px;
+}
+h1 {
+    text-decoration-style: ;
+}
+.target{
+   font-family:"arial";  
+}
+#ids{
+    font-family: "fantasy"
+}
